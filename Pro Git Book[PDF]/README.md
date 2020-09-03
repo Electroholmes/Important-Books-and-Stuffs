@@ -1,13 +1,13 @@
-Credits taken from (here):-
+<b>Credits taken from (here):-</b>
 
-Book 1:- https://www.pdfdrive.com/pro-git-e158810443.html 
+<i>Book 1:-</i> https://www.pdfdrive.com/pro-git-e158810443.html 
 
-Book 2:- https://www.pdfdrive.com/pro-git-e33757865.html
+<i>Book 2:-</i> https://www.pdfdrive.com/pro-git-e33757865.html
 
-Website:- https://www.pdfdrive.com/
+<i>Website:-</i> https://www.pdfdrive.com/
 
-Authors of these Books are:- 
+<b>Authors of these Books are:-</b> 
 
-Book 1:- Scott Chacon.
+<i>Book 1:- </i> Scott Chacon.
 
-Book 2:- Scott Chacon and Ben Straub.
+<i>Book 2:- </i> Scott Chacon and Ben Straub.
