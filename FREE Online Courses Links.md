@@ -1,3 +1,7 @@
+<p><b> Everyone should have the opportunity to hone their data skills and future-proof their career. Through September 9, anyone anywhere can enjoy everything DataCamp has to offer—unlimited courses, tracks, skill assessments, and more.</b></p>
+
+<b><i> Link:-</b></i> https://www.datacamp.com/freeweek 
+
 <p><b>1. Coursera offering 100+ courses for free! Grab your favourite and get a verified certificate to add in your resume(Do complete the course whichever u select before September 30,2020!)</b></p>
 
 <b><i>Link:- </b></i> https://www.businessinsider.in/slideshows/miscellaneous/100-online-courses-from-coursera-are-0-now-through-may-31-heres-a-list-of-all-the-classes-open-for-free-enrollment/slidelist/74956107.cms#slideid=74956127
