@@ -15,3 +15,9 @@
 <p><b>4. SoloLearn has the largest collection of FREE code learning content, from beginner to pro!</b></p>
 
 <b><i>Link:- </b></i>https://www.sololearn.com/
+
+<p><b> Cognitive Class is an IBM led initiative to democratize data knowledge and skills. ... When you partner with Cognitive Class you get access to our content and our platform at no charge. Differentiate your program by having your students practice hands-on in our Virtual Lab Environment (VLE) on real-world big data systems.</b></p>
+
+<b><i>Link:- </b></i> https://cognitiveclass.ai/  (These courses are totally free.) 
+
+<b><i>Link:- </b></i> https://cognitiveclass.ai/badges  (These are the badges awarded for the courses you complete.)
