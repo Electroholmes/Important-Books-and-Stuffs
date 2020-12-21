@@ -1,6 +1,6 @@
 
 
-<p><b>1. Coursera offering 100+ courses for free! Grab your favourite and get a verified certificate to add in your resume(Do complete the course whichever u select before September 30,2020!)</b></p>
+<p><b>1. Coursera offering 100+ courses for free! Grab your favourite and get a verified certificate to add in your resume(Do complete the course whichever u select before September 30,2020!)</b></p>  
 
 <b><i>Link:- </b></i> https://www.businessinsider.in/slideshows/miscellaneous/100-online-courses-from-coursera-are-0-now-through-may-31-heres-a-list-of-all-the-classes-open-for-free-enrollment/slidelist/74956107.cms#slideid=74956127
 
@@ -21,3 +21,7 @@
 <b><i>Link:- </b></i> https://cognitiveclass.ai/  (These courses are totally free.) 
 
 <b><i>Link:- </b></i> https://cognitiveclass.ai/badges  (These are the badges awarded for the courses you complete.)
+
+**6. freeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.** 
+
+*Link:-* https://www.freecodecamp.org/
